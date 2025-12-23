@@ -1,0 +1,13 @@
+# Bonita / Eclipse / Maven
+*/target/
+*/bin/
+*.log
+
+# Eclipse
+.metadata/
+.recommenders/
+.settings/org.eclipse.m2e.core.prefs
+
+# OS
+.DS_Store
+Thumbs.db
